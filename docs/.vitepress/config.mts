@@ -2,11 +2,10 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'PyLet',
-  description: 'A simple distributed task execution system for GPU servers',
-  base: '/pylet.github.io/',
+  description: 'A Pythonic distributed task execution system for GPU servers',
   
   head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/pylet.github.io/logo.svg' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
   ],
 
   themeConfig: {

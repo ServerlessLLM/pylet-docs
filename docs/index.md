@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: PyLet
-  text: GPU Cluster Made Simple
-  tagline: Like Ray/K8s but much simpler. No containers, no YAML — just pylet start and pylet submit.
+  text: Pythonic GPU Cluster Management
+  tagline: Pure Python, no containers, no YAML — just pylet start and pylet submit.
   actions:
     - theme: brand
       text: Quick Start
