@@ -1,0 +1,25 @@
+{
+  "name": "pylet.github.io",
+  "version": "1.0.0",
+  "description": "Documentation site for [PyLet](https://github.com/ServerlessLLM/pylet) — a simple distributed task execution system for GPU servers.",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ServerlessLLM/pylet.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ServerlessLLM/pylet.github.io/issues"
+  },
+  "homepage": "https://github.com/ServerlessLLM/pylet.github.io#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
