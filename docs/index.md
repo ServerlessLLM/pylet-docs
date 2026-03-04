@@ -1,5 +1,5 @@
 <div style="text-align: center; margin: 1.5rem 0 2rem;">
-  <img src="/pylet-docs/pylet_logo.png" alt="PyLet" style="width: 100%; max-width: 480px;" />
+  <img src="/pylet_logo.png" alt="PyLet" style="width: 100%; max-width: 480px;" />
 </div>
 
 # PyLet
