@@ -3,13 +3,14 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'PyLet',
   description: 'A Pythonic distributed task execution system for GPU servers',
+  base: '/pylet-docs/',
   
   head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/pylet_logo.png' }],
   ],
 
   themeConfig: {
-    logo: '/logo.svg',
+    logo: '/pylet_logo.png',
 
     nav: [
       { text: 'Guide', link: '/getting-started/quickstart' },
